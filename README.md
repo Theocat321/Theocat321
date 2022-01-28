@@ -6,6 +6,7 @@ My name is Adam and I am a 16 year old in sixth form. I study Maths, Physics and
 I would love to hear about learning ideas so please feel free to contact me!
 
 [Twitter](https://twitter.com/AdamONeill_0)
+[linked in](https://www.linkedin.com/in/adam-o-neill-370290213/)
 
 # Current Projects :clipboard:
 
