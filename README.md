@@ -1,6 +1,6 @@
 # Welcome  :wave:
 Who am I? <br>
-My name is Adam and I am a 16 year old in sixth form. I study Maths, Physics and Computer Science - ofc. Along with this I am semi-professional footballer in English non-league. I am eager to learn more about the computer science field as I slowly narrow down which area of the vast field I want to pursue my career! I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
+My name is Adam and I am a 17 year old in sixth form. I study Maths, Physics and Computer Science - ofc. Along with this I am semi-professional footballer in English non-league. I am eager to learn more about the computer science field as I slowly narrow down which area of the vast field I want to pursue my career! I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
 
 ## Contact me :email:
 I would love to hear about learning ideas so please feel free to contact me!
