@@ -7,7 +7,8 @@ I would love to hear about learning ideas so please feel free to contact me!
 
 [Twitter](https://twitter.com/AdamONeill_0) <br>
 [Linked In](https://www.linkedin.com/in/adam-o-neill-370290213/) <br>
-[Email](adamo.mark25@gmail.com)
+[Email](adamo.mark25@gmail.com)<br>
+[Stack overflow](https://stackoverflow.com/users/17199867/adam-oneill)
 
 # Current Projects :clipboard:
 
