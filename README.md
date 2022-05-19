@@ -1,6 +1,6 @@
 # Welcome  :wave:
 Who am I? <br>
-My name is Adam and I am a 17 year old in sixth form. I study Maths, Physics and Computer Science - ofc. Along with this I am semi-professional footballer in English non-league. I am eager to learn more about the computer science field as I slowly narrow down which area of the vast field I want to pursue my career! I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
+My name is Adam and I am a 17 year old in sixth form. I study Maths, Physics and Computer Science - ofc. Along with this I play footballer in English non-league as a goal keeper. I am eager to learn more about the computer science field as I slowly narrow down which area of the vast field I want to pursue my career! I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
 
 ## Contact me :email:
 I would love to hear about learning ideas so please feel free to contact me!
@@ -22,12 +22,12 @@ Recently I have really developed an understanding of the importance of data. How
 [SciPy repo](https://github.com/Theocat321/SciPy) <br>
 [Auto Trader project](https://github.com/Theocat321/CarPriceClassifier)
 
-## Organisation 
+## Organisations
 
 ### A Level Coding Collab <img src="https://user-images.githubusercontent.com/84132218/150591557-899fcee2-7184-4fbd-86a7-b3e771fe7221.png" width = 40px height = 40px)>
 
 
-My friends and I created our organisation named A-Level-Coding collab where we develope our pirate game project together. Currently, this is where the bulk of my time is spent coding outside of lesson. Click [here](https://github.com/A-Level-Personal-Code-Collab) to view the organisation main page!
+My friends and I created our organisation named A-Level-Coding collab where we develope our pirate game project together. Currently, this is where the some of my time is spent coding outside of lesson. Click [here](https://github.com/A-Level-Personal-Code-Collab) to view the organisation main page!
 
 ## Previous projects
 
@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
