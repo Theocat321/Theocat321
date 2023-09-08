@@ -1,6 +1,6 @@
 # Welcome  :wave:
 Who am I? <br>
-My name is Adam, I an A level student. I study Maths, Physics and Computer Science - ofc. Along with this I play footballer in English non-league as a goal keeper. I am eager to learn more about the computer science field as I narrow down which area of the vast field I want to pursue my career! I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
+My name is Adam, I am an undergraduate at the University of Exeter. I study pure Computer Science - ofc. Along with this I play footballer in English non-league as a goalkeeper. I am eager to learn more about the computer science field as I narrow down which area of the vast field I want to pursue my career! For more about me visit my LinkedIn below. I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
 
 ## Contact me :email:
 I would love to hear about learning ideas so please feel free to contact me!
@@ -9,6 +9,7 @@ I would love to hear about learning ideas so please feel free to contact me!
 [Linked In](https://www.linkedin.com/in/adam-o-neill-370290213/) <br>
 [Email](contact@adamoneill.info)<br>
 [Stack overflow](https://stackoverflow.com/users/17199867/adam-oneill)
+[Portfolio Website](http://adamoneill.info/)
 
 # What I code with 🧠
 - Python
@@ -18,7 +19,8 @@ I would love to hear about learning ideas so please feel free to contact me!
 - Javascript
 - Typescript
 - Django
-- Angular 
+- Angular
+- Flutter/ Dart
 
 
 <hr>
