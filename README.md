@@ -24,6 +24,7 @@ I would love to hear about learning ideas so please feel free to contact me!
 
 
 <hr>
+## Don't be fooled! I'm on [gitlab](https://gitlab.com/Aquafic)
 
 ![Theocat321's GitHub stats](https://github-readme-stats.vercel.app/api?username=theocat321&show_icons=true&theme=radical)
 <!--
