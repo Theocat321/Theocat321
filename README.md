@@ -5,8 +5,7 @@ My name is Adam, I am an undergraduate at the University of Exeter. I study pure
 ## Contact me :email:
 I would love to hear about learning ideas so please feel free to contact me!
 
-[Twitter](https://twitter.com/AdamONeill_0) <br>
-[Linked In](https://www.linkedin.com/in/adam-o-neill-370290213/) <br>
+[LinkedIn](https://www.linkedin.com/in/adam-o-neill-370290213/) <br>
 [Email](contact@adamoneill.info)<br>
 [Portfolio Website](http://adamoneill.info/)
 
