@@ -1,45 +1,32 @@
-# Welcome  :wave:
-Who am I? <br>
-My name is Adam, I am an undergraduate at the University of Exeter. I study pure Computer Science - ofc. I am eager to learn more about the computer science field as I narrow down which area of the vast field I want to pursue my career! For more about me visit my LinkedIn below. I believe experience is key, therefore I will use this github account to showcase some of my projects and work...
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Adam%20–%20Builder%20at%20the%20Intersection%20of%20AI%20&%20DevTools&animation=fadeIn&type=waving&color=gradient&height=100" alt="Header animation" />
+</p>
 
-## Contact me :email:
-I would love to hear about learning ideas so please feel free to contact me!
+### Hey there — I'm Adam 👋
 
-[LinkedIn](https://www.linkedin.com/in/adam-o-neill-370290213/) <br>
-[Email](contact@adamoneill.info)<br>
-[Portfolio Website](http://adamoneill.info/)
+I build tools and prototypes in AI, data, and dev-ops—backed by numerous hackathon wins. Here’s what I bring to the table:
 
-# What I code with 🧠
-- Python
-- CSS
-- SCSS
-- HTML 5
-- Javascript
-- Typescript
-- Django
-- Angular
-- Flutter/ Dart
+---
 
+##  My Toolbox
 
-![](https://komarev.com/ghpvc/?username=theocat321)
+- **Languages**: Python · JavaScript · TypeScript · Dart  
+- **Frameworks**: FastAPI · Django · React · Next.js · Angular · Flutter  
+- **Databases & Infra**: Postgres (pgvector, RLS) · Supabase · CosmosDB · Azure · GCP · Docker · GitHub Actions · NGINX  
+- **UI / Dev Tools**: Tailwind · shadcn/ui · Electron  
+- **Focus Areas**: Agentic AI workflows · LLMOps · Real-time systems
 
-<hr>
+---
 
-Don't be fooled! I'm on [gitlab](https://gitlab.com/Aquafic)
+##  Stats & Activity
 
-<!--![Theocat321's GitHub stats](https://github-readme-stats.vercel.app/api?username=theocat321&show_icons=true&theme=radical)-->
-<!--
-**Theocat321/Theocat321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theocat321&show_icons=true&theme=radical)](https://github.com/theocat321)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theocat321&theme=radical)](https://github.com/theocat321)  
+[![Profile Views](https://komarev.com/ghpvc/?username=theocat321)]()
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Connect With Me
 
+[LinkedIn](https://www.linkedin.com/in/adam-o-neill-370290213/) · [Portfolio](http://adamoneill.info)  
+[Email](mailto:contact@adamoneill.info) · Also on [GitLab](https://gitlab.com/Aquafic)
