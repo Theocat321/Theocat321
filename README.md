@@ -21,6 +21,8 @@ I would love to hear about learning ideas so please feel free to contact me!
 - Flutter/ Dart
 
 
+![](https://komarev.com/ghpvc/?username=theocat321)
+
 <hr>
 
 Don't be fooled! I'm on [gitlab](https://gitlab.com/Aquafic)
