@@ -8,6 +8,8 @@ Hacking projects
 
 VC backed founder
 
+UM 🦄
+
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/adam-o-neill-370290213/
