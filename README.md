@@ -5,6 +5,7 @@ I like turning messy ideas into working products... usually fast, usually with A
 ## Me
 
 Hacking projects
+
 VC backed founder
 
 ## Connect
